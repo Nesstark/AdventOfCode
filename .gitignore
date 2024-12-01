@@ -1,0 +1,22 @@
+# Rust build output
+target/
+**/target/
+
+# Cargo files
+.cargo/
+
+# Rust compiler artifacts
+*.rs.bk
+*.rlib
+*.d
+
+# IDE/editor specific files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# macOS specific files
+.AppleDouble
+.LSOverride
