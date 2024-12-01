@@ -29,11 +29,11 @@ Each year’s solution will have its own folder, structured like this:
    ```  
 2. Navigate to the day’s folder:  
    ```bash
-   cd yearXXXX   # Replace XX with the current year, e.g., year24
+   cd yearXXXX   # Replace X with the current year, e.g., year2024
    ```  
 3. Compile and run the solution:  
    ```bash
-   cargo run --bin year2024-day1  # Replace day01 with the appropriate file for the day
+   cargo run --bin year2024-day01  # Replace day01 with the appropriate file for the day
    ```  
 
 ## 📅 Progress  
