@@ -13,12 +13,12 @@ This is where I’ll be solving the daily Advent of Code puzzles throughout Dece
 - **Version Control:** Git  
 
 ## 🏗️ Repository Structure  
-Each day’s solution will have its own folder, structured like this:  
+Each year’s solution will have its own folder, structured like this:  
 ```
-📂 dayXX/
-   ├── input.txt   # Puzzle input
-   ├── solution.rs # Rust code
-   ├── README.md   # Explanation or notes (if needed)
+📂 yearXX/
+   ├── day01.rs    # Rust solution
+   ├── day02.rs    # Rust solution
+   ├── ...
 ```  
 
 ## 🚀 Running the Code  

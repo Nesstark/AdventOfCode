@@ -20,3 +20,8 @@ target/
 # macOS specific files
 .AppleDouble
 .LSOverride
+
+
+# Added by cargo
+
+/target
