@@ -15,7 +15,7 @@ This is where I’ll be solving the daily Advent of Code puzzles throughout Dece
 ## 🏗️ Repository Structure  
 Each year’s solution will have its own folder, structured like this:  
 ```
-📂 yearXX/
+📂 yearXXXX/
    ├── day01.rs    # Rust solution
    ├── day02.rs    # Rust solution
    ├── ...
@@ -29,11 +29,11 @@ Each year’s solution will have its own folder, structured like this:
    ```  
 2. Navigate to the day’s folder:  
    ```bash
-   cd day01
+   cd yearXXXX   # Replace XX with the current year, e.g., year24
    ```  
 3. Compile and run the solution:  
    ```bash
-   cargo run
+   cargo run --bin year2024-day1  # Replace day01 with the appropriate file for the day
    ```  
 
 ## 📅 Progress  
