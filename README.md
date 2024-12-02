@@ -27,11 +27,7 @@ Each year’s solution will have its own folder, structured like this:
    git clone https://github.com/nesstark/advent-of-code.git
    cd advent-of-code
    ```  
-2. Navigate to the day’s folder:  
-   ```bash
-   cd yearXXXX   # Replace X with the current year, e.g., year2024
-   ```  
-3. Compile and run the solution:  
+2. Compile and run the solution:  
    ```bash
    cargo run --bin year2024-day01  # Replace day01 with the appropriate file for the day
    ```  
