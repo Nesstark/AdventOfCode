@@ -42,5 +42,3 @@ Each year’s solution will have its own folder, structured like this:
 | 01  | ⬜             | ⬜             |  
 | 02  | ⬜             | ⬜             |  
 | ... |               |               |  
-
----
