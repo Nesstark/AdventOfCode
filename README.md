@@ -35,6 +35,7 @@ Each year’s solution will have its own folder, structured like this:
 ## 📅 Progress  
 | Day | Puzzle Part 1 | Puzzle Part 2 |  
 |-----|---------------|---------------|  
-| 01  | ⬜             | ⬜             |  
-| 02  | ⬜             | ⬜             |  
+| 01  | ✅             | ✅            |  
+| 02  | ⬜             | ⬜            |
+| 03  | ⬜             | ⬜            |
 | ... |               |               |  
