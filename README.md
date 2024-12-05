@@ -36,6 +36,6 @@ Each year’s solution will have its own folder, structured like this:
 | Day | Puzzle Part 1 | Puzzle Part 2 |  
 |-----|---------------|---------------|  
 | 01  | ✅             | ✅            |  
-| 02  | ⬜             | ⬜            |
+| 02  | ✅             | ✅            |
 | 03  | ⬜             | ⬜            |
 | ... |               |               |  
