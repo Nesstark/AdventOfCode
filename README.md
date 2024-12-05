@@ -37,5 +37,7 @@ Each year’s solution will have its own folder, structured like this:
 |-----|---------------|---------------|  
 | 01  | ✅             | ✅            |  
 | 02  | ✅             | ✅            |
-| 03  | ⬜             | ⬜            |
+| 03  | ✅             | ⬜            |
+| 04  | ⬜             | ⬜            |
+| 05  | ⬜             | ⬜            |
 | ... |               |               |  
